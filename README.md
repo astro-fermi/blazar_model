@@ -12,15 +12,15 @@ These are the ones I'm actually using on Red Hat Enterprise Linux 6.8
 `matplotlib==1.4.3`  
 `naima==0.8`  
 
-last one - naima - is the most important.        
-Naima and all of its dependencies can be installed in an Anaconda distribution through the Astropy conda channel:             
-`$ conda config --add channels astropy` 
-`$ conda install naima` 
-For more info http://naima.readthedocs.io/en/latest/index.html.   
+last one - naima - is the most important.          
+Naima and all of its dependencies can be installed in an Anaconda distribution through the Astropy conda channel:               
+`$ conda config --add channels astropy`     
+`$ conda install naima`    
+For more info http://naima.readthedocs.io/en/latest/index.html.       
 
 
 ## structure
-The main reference for all the calculations is  [arxiv of the paper](https://arxiv.org/abs/astro-ph/9810263) - pdf version available in the references.  
+The main reference for all the calculations is  [arxiv of the paper](https://arxiv.org/abs/astro-ph/9810263)  
 We are using the great python package [naima](http://naima.readthedocs.io/en/latest/index.html)!
 
 ### the ssc_model class
