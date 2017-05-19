@@ -7,7 +7,7 @@ This is a small guide to use the macros contained in this repository
 ## what you need
 To use the code you need python (code is written with python 2.7), the following packages are also required  
 These are the ones I'm actually using on Red Hat Enterprise Linux 6.8   
-    numpy==1.10.2
+...numpy==1.10.2
     scipy==0.16.0
     astropy==1.1.2
     matplotlib==1.4.3
