@@ -1,8 +1,8 @@
 ################################################################################
-# reordering and cleaning Simone's macro for SSC
+# reordering and cleaning SSC_test for the upload on github
 # testing the SSC_class
-# 18 Dec 2016
-# cox
+# 19 May 2017
+# author: Cosimo Nigro (cosimonigro2@gmail.com)
 ################################################################################
 
 import numpy as np
