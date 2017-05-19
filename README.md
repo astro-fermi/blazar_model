@@ -5,18 +5,18 @@ Attempt to create a time-dependent radiative model for AGN
 This is a small guide to use the macros contained in this repository
 
 ## what you need
-To use the code you need python (code is written with python 2.7), the following packages are also required
-These are the ones I'm actually using on Red Hat Enterprise Linux 6.8
+To use the code you need python (code is written with python 2.7), the following packages are also required  
+These are the ones I'm actually using on Red Hat Enterprise Linux 6.8   
   numpy==1.10.2
   scipy==0.16.0
   astropy==1.1.2
   matplotlib==1.4.3
   naima==0.8
-last one - naima - is the most important.
-Naima and all of its dependencies can be installed in an Anaconda distribution through the Astropy conda channel:
-    $ conda config --add channels astropy
-    $ conda install naima
-For more info http://naima.readthedocs.io/en/latest/index.html.
+last one - naima - is the most important.   
+Naima and all of its dependencies can be installed in an Anaconda distribution through the Astropy conda channel:   
+    $ conda config --add channels astropy   
+    $ conda install naima   
+For more info http://naima.readthedocs.io/en/latest/index.html.   
 
 
 ## structure
